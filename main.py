@@ -74,7 +74,7 @@ def main():
                 print(word_found)
         elif len(words_found) < len(open_words_txt()):
             print("You only found these words")
-            for word_found in open_words_txt():
+            for word_found in words_found:
                 print(word_found)
         else:
             print("No word was found")
