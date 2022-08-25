@@ -1,6 +1,6 @@
-green
+blue
 red
-BLUE
-white
-black
-purple
+cat
+dog
+rice
+chat
